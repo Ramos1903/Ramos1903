@@ -4,7 +4,7 @@
 
 <br>
 
-# Estudante de Engenharia no 8º Período
+# Estudante de Engenharia no 10º Período
 # Programador FullStack Web/Mobile
 # 今勉強しています
 
