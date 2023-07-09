@@ -33,6 +33,9 @@
 <img align="center" alt="FIREBASE" height="30" width="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
 <img align="center" alt="POSTGREESQL" height="30" width="40" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">
 <img align="center" alt="SPRING" height="30" width="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
+<img align="center" alt="JENKINS" height="30" width="40" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/jenkins/jenkins-icon.svg">
+<img align="center" alt="OPENSHIFT" height="30" width="40" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/openshift/openshift-icon.svg">
+<img align="center" alt="CAMEL" height="30" width="40" src="https://seeklogo.com/vector-logo/354669/apache-camel">
 </div>
  
 </td></tr></table>
