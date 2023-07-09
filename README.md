@@ -4,7 +4,7 @@
 
 <br>
 
-# Estudante de Engenharia no 10º Período
+# Engenharia da Computação 2023
 # Programador FullStack Web/Mobile
 # 今勉強しています
 
