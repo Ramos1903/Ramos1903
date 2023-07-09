@@ -4,7 +4,7 @@
 
 <br>
 
-# Engenharia da Computação 2023
+# Engenharia da Computação
 # Programador FullStack Web/Mobile
 # 今勉強しています
 
@@ -36,6 +36,8 @@
 <img align="center" alt="JENKINS" height="30" width="40" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg">
 <img align="center" alt="OPENSHIFT" height="30" width="40" src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg">
 <img align="center" alt="CAMEL" height="30" width="40" src="https://seeklogo.com/images/A/apache-camel-logo-A89CA3F2F1-seeklogo.com.png">
+<img align="center" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" />  
+<img align="center" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" />
 </div>
  
 </td></tr></table>
