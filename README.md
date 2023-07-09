@@ -16,12 +16,12 @@
 # Frontend
 
 <div align="center">  
-<img align="center" alt="FLUTTER" height="30" width="40" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg">
-<img align="center" alt="VUEJS" height="30" width="40" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg">
-<img align="center" alt="ANDROID" height="30" width="40" src="https://www.vectorlogo.zone/logos/android/android-icon.svg">
-<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" height=50 alt="FLUTTER" height="30" width="40" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg">
+<img align="center" height=50 alt="VUEJS" height="30" width="40" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg">
+<img align="center" height=50 alt="ANDROID" height="30" width="40" src="https://www.vectorlogo.zone/logos/android/android-icon.svg">
+<img align="center" height=50 alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" height=50 alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" height=50 alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
 </td><td valign="top" width="33%">
@@ -29,15 +29,17 @@
 # Backend
   
 <div align="center">  
-<img align="center" alt="JAVA" height="30" width="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
-<img align="center" alt="FIREBASE" height="30" width="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
-<img align="center" alt="POSTGREESQL" height="30" width="40" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">
-<img align="center" alt="SPRING" height="30" width="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
-<img align="center" alt="JENKINS" height="30" width="40" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg">
-<img align="center" alt="OPENSHIFT" height="30" width="40" src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg">
-<img align="center" alt="CAMEL" height="30" width="40" src="https://seeklogo.com/images/A/apache-camel-logo-A89CA3F2F1-seeklogo.com.png">
-<img align="center" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" />  
-<img align="center" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" />
+<img align="center" height=50 alt="JAVA" height="30" width="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
+<img align="center" height=50 alt="FIREBASE" height="30" width="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
+<img align="center" height=50 alt="POSTGREESQL" height="30" width="40" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">
+<img align="center" height=50 alt="SPRING" height="30" width="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
+<img align="center" height=50 alt="JENKINS" height="30" width="40" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg">
+<img align="center" height=50 alt="OPENSHIFT" height="30" width="40" src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg">
+<img align="center" height=50 alt="CAMEL" height="30" width="40" src="https://seeklogo.com/images/A/apache-camel-logo-A89CA3F2F1-seeklogo.com.png">
+<img align="center" height=50 alt="PYTHON" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">  
+<img align="center" height=50 alt="GIT" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+<img align="center" height=50 alt="GITLAB" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg">
+<img align="center" height=50 alt="GITHUB" src="https://www.vectorlogo.zone/logos/github/github-icon.svg">
 </div>
  
 </td></tr></table>
